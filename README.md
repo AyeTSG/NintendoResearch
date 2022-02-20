@@ -1,5 +1,5 @@
 # Nintendo Research
-My private collection of Nintendo hardware and software research I've done.
+My collection of Nintendo hardware and software research I've done.
 
 ## Documented HW and SW
 ---
