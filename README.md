@@ -1,6 +1,134 @@
 # Nintendo Research
 My private collection of Nintendo hardware and software research I've done.
 
+## Documented HW and SW
+---
+- New Nintendo 3DS
+  - Hardware
+    - KTR X5 Prototype
+- New Nintendo 3DS XL
+  - Hardware
+    - IS-SNAKE-BOX
+- Nintendo 3DS
+  - Hardware
+    - CTR Accelerometer Calibration Jig
+    - CTR CPU Board Inspector
+    - CTR CPU Board Pre-Inspector
+    - CTR Final Product Inspector
+    - CTR Finished Product Microphone Inspector
+    - CTR Finished Product Wireless Inspection Box
+    - CTR Flash Card
+    - CTR Flash Card for SPI Communication
+    - CTR Guide Boot Card
+    - CTR Gyro Sensor Calibration Jig
+    - CTR Inspection Flash Card
+    - CTR LCD Display Checker Jig
+    - CTR Lithium Ion Battery Charger
+    - CTR Slide Pad Calibration Jig
+    - CTR TEG2 Dev Board
+    - CTR Touch Panel Calibration Jig
+    - PARTNER-CTR Capture Debugger
+    - PARTNER-CTR Debugger
+    - PARTNER-CTR Writer
+    - SPI to USB Conversion Unit
+  - Software
+    - Aging Program Importer
+    - CPU Board Checker CTR
+    - CTRAging
+    - Final Checker CTR
+    - SDK Sample Demos
+      - Applets
+        - ErrEula
+        - PhtSel
+        - SwKbd
+        - VoiceSel
+      - Camera
+      - Demo1
+      - Demo2
+      - Dlp
+      - Font
+      - Gx
+        - Api
+        - Cmd
+        - Demo
+        - DMPGL
+        - Gd
+        - Gr
+        - ProcTexEditor
+      - Ir
+      - Jpeg
+      - MakeBanner
+      - News
+      - Pl
+      - Ptm
+      - Rdt
+      - Snd
+      - Tpl
+      - Uds
+      - Ulcd
+- Nintendo DS
+  - Hardware
+    - Download Station Unit
+    - DS Download Station Cartridges
+    - FCC NTR Unit
+    - IS-NITRO EMULATOR
+    - NTR Aging Cart
+  - Software
+    - NITRO Tester
+- Nintendo DSi
+  - Hardware
+    - IS-TWL DEBUGGER
+- Nintendo Entertainment System
+  - Hardware
+    - Port Test Cartridge
+- Nintendo Gameboy
+  - Hardware
+    - DMG-ICE
+- Nintendo Gameboy Advance
+  - Hardware
+    - AGS Aging Cartridge
+    - IS-AGB EMULATOR
+    - TB-TS2
+- Nintendo Gameboy Color
+  - Hardware
+    - IS-CGB EMULATOR
+- Nintendo Gamecube
+  - Hardware
+    - IS-DOL VIEWER
+    - NPDP-GBOX
+    - NPDP-GDEV
+    - NPDP-GW
+    - NPDP-SW
+    - NPDP-WIF
+    - NR Disc
+    - NR Reader
+    - NR Writer
+  - Software
+    - Car Demo
+- Nintendo Switch
+  - Hardware
+    - EDev
+    - Relay Box
+    - SDev
+    - SDev Cradle
+- Nintendo Wii
+  - Hardware
+    - NDEV
+    - Remote Control for Developers
+    - RVT-H
+    - RVT-R Disc
+    - RVT-R Reader
+    - RVT-R Writer
+- Nintendo Wii U
+  - Hardware
+    - Anatel Cafe Gamepad
+    - Anatel Cafe Reader
+    - CAT-DEV
+    - CAT-R Disc
+    - CAT-R Reader
+    - DRC-DK-MP Gamepad
+    - DRC-DK-TV Gamepad
+
 ## Codenames
 ---
 - **DMG** (Nintendo GameBoy)
