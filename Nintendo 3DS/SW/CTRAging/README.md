@@ -14,6 +14,7 @@ There are derivitives of this software for each CTR hardware revision, including
 ---
 - Nintendo Gigaleak
     - Path (Dump): ``3ds_manu.7z\KTR_Aging_Import_Program_ver.580_3833_9.12_Release.master.7z\KTR_Aging_Import_Program_ver.5.80_3833_9.12_Release.master.csu\content0.game\romfs\cia\Aging.cia``
+    - Path (Partial Source Code): ``Documents.7z\Documents\セキュリティチーム運営\プロジェクト\コードレビュー\データ書込みソフト_セキュリティホール確認用_20140509\CTR_TRIAL\``
     - Path (Images): ``Documents.7z\Documents\セキュリティチーム運営\プロジェクト\INDY検討\eFuse検討\ＣＴＲ本体電気検査仕様書.pdf``
 - Publicly Acquired (All Units)
     - Note: Since all CTR units at one point in their life-cycle have run this app, it is possible to recover pieces of the software before the first power on. To date, no CTR unit has been recovered with a full intact dump of the software on it. There have been full dumps of KTRAging recovered from KTR units. However, Forest of Illusion's CTR unit was acquired before the factory process finished, thus recovering a nearly complete copy of the software.
