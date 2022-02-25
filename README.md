@@ -111,6 +111,7 @@ My collection of Nintendo hardware and software research I've done.
     - Relay Box
     - SDev
     - SDev Cradle
+    - Singular JoyCon
 - Nintendo Wii
   - Hardware
     - NDEV
