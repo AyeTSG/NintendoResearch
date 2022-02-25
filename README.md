@@ -78,6 +78,7 @@ My collection of Nintendo hardware and software research I've done.
 - Nintendo DSi
   - Hardware
     - IS-TWL DEBUGGER
+    - TWL X4 Prototype
 - Nintendo Entertainment System
   - Hardware
     - Port Test Cartridge
