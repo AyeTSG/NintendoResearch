@@ -25,7 +25,7 @@ My collection of Nintendo hardware and software research I've done.
     - CTR LCD Display Checker Jig
     - CTR Lithium Ion Battery Charger
     - CTR Slide Pad Calibration Jig
-    - CTR TEG2 Dev Board
+    - CTR Target Board
     - CTR Touch Panel Calibration Jig
     - PARTNER-CTR Capture Debugger
     - PARTNER-CTR Debugger
