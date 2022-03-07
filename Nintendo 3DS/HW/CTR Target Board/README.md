@@ -16,6 +16,7 @@ The CTR Target Board is a board that is designed to test the relations of how ea
   - CTR-TS-CPU-X1
   - CTR-TEG2-CPU-X1
 - Codec IC
+  - CTR-TEG2-CODEC-X1
   - CTR-CODEC-X3
   - CTR-CODEC-X4
 - NAND IC
