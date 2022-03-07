@@ -2,7 +2,7 @@
 
 ## Information
 ---
-The Nintendo 3DS is a handheld video game console released in 2011. It goes by the codename of **CTR**, possibly standing for **Citrus**.
+The Nintendo 3DS is a handheld video game console released in 2011. It goes by the codename of **CTR**, or **Citrus**
 
 ## Versions (Hardware)
 - ICs
@@ -48,5 +48,7 @@ The Nintendo 3DS is a handheld video game console released in 2011. It goes by t
   - Note: I own a ``CTR-001(USA)`` unit.
 - Luckless Heaven Arcade
   - URL: ``https://www.lucklessheaven.com/nintendo-3ds-hardware``
+- SciresM
+  - URL: ``https://twitter.com/SciresM/status/918952710044389376``
 - Smile, Citrus
   - URL: ``https://smilecitrus.info/?p=3032``
